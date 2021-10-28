@@ -20,7 +20,7 @@ The program gets the face landmark coordinates using face recognition's landmark
 All we need is to manipulate the features in a scale invariant way that the features stick in the right place when the person changes her position with respect to the camera.
 In order to this, I used the euclidean distance between to end points of the chin as a scale for all other features.
 
-At last, the features (in this case joker's face features) are drawed for all faces detected in the frame. 
+At last, the features (in this case joker's face features) are drawn for all faces detected in the frame. 
 
 ### How to run
 
