@@ -3,7 +3,9 @@ A repository for creating innovative digital makeups suitable for Halloween
 
 ## Overview
 
-![Halloween makeup demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="Halloween makeup demo" width="512" height="384">/>
+</p>
 
 A joker holloween makeup that builds from the user camera input.
 
