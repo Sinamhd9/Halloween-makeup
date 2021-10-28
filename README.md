@@ -1,5 +1,5 @@
 # Halloween-makeup
-A repository for creating innovative digital makeups suitable for Halloween
+A repository for creating innovative digital makeups for Halloween
 
 <p align="center">
   <img src="demo.gif" alt="Halloween makeup demo" width="400" height="300" />
