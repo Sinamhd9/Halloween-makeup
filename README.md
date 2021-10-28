@@ -1,12 +1,11 @@
 # Halloween-makeup
 A repository for creating innovative digital makeups suitable for Halloween
 
-## Overview
-
 <p align="center">
   <img src="demo.gif" alt="Halloween makeup demo" width="512" height="384">/>
 </p>
 
+## Overview
 A joker holloween makeup that builds from the user camera input.
 
 It uses face recognition to detect the face landmarks, OpenCV for reading camera input and frame manipulation,
@@ -22,7 +21,6 @@ All we need is to manipulate the features in a scale invariant way that the feat
 In order to this, I used the euclidean distance between to end points of the chin as a scale for all other features.
 
 At last, the features (in this case joker's face features) are drawed for all faces detected in the frame. 
-
 
 ### How to run
 
