@@ -30,5 +30,5 @@ At last, the features (in this case joker's face features) are drawed for all fa
 
 Install the [required libraries](/requirements.txt)and run the main.py file. 
 
-If you are having problem with installing face recognition or dlib, check this out. (face recognition installation)[https://github.com/ageitgey/face_recognition]
+If you are having problem with installing face recognition or dlib, check this out [face recognition installation](https://github.com/ageitgey/face_recognition)
 
