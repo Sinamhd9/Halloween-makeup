@@ -6,7 +6,7 @@ A repository for creating innovative digital makeups suitable for Halloween
 </p>
 
 ## Overview
-A joker holloween makeup that builds from the user camera input.
+A joker Halloween makeup that is built on the user camera input.
 
 It uses face recognition to detect the face landmarks, OpenCV for reading camera input and frame manipulation,
 and PIL to draw shapes.
